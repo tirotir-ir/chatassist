@@ -1,0 +1,5 @@
+# requirements.txt
+requests
+argparse
+tk
+openai
